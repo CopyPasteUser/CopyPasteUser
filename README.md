@@ -21,7 +21,7 @@ Hey there! 👋 I'm **CopyPasteUser**, a computer science student from Germany d
   - **Game Development**: Passionate about creating a Doom-style renderer.
   - **Web Development**: Experienced in building web applications with Flask.
   - **Mobile Development**: Proficient in Android app development using Android Studio.
-  - **HTML** and **CSS**: Fundamental languages for building web applications and styling.
+  - ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white) and ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white): Fundamental languages for building web applications and styling.
 
 ## Get in Touch
 Connect with me via [email](mailto:mightygerkin@gmail.com). Let's learn and grow together!
