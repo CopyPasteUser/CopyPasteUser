@@ -15,6 +15,7 @@ Hey there! 👋 I'm **CopyPasteUser**, a computer science student from Germany d
 - **Main Focus:**
   - ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white): My main language for various projects, including Android app development.
   - ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white): Versatile language used for web development with Flask, scripting, and more.
+  -  ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=python&logoColor=white): Versatile language used for web development with Flask, scripting, and more.
 - **Other Technologies**:
   - ![C](https://img.shields.io/badge/-C-lightgrey?style=for-the-badge&logo=c&logoColor=white): Exploring low-level programming.
   -  ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white): for Website formatting,
