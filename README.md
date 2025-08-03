@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a computer science student from Germany passionate about understanding how technology works from the ground up. Currently diving deep into systems programming with C while building robust backend solutions with Python. I love the challenge of low-level programming and the elegance of well-designed server architectures.
+I'm a computer science student from Germany passionate about understanding how technology works from the ground up. Python is my go-to language for everything from web backends with Flask to automation scripts and side projects. Currently also diving deep into systems programming with C to understand the fundamentals beneath the abstractions.
 
-**🌱 Currently Learning:** Systems programming fundamentals and advanced backend development  
+**🌱 Currently Learning:** Systems programming fundamentals and exploring machine learning  
 **💻 Development Environment:** Linux Mint  
-**🎯 Focus:** Backend development and systems programming
+**🎯 Focus:** Python development (backend, automation) and systems programming
 
 ---
 
@@ -18,14 +18,15 @@ I'm a computer science student from Germany passionate about understanding how t
 
 ### **Primary Focus**
 ```
+🔹 Python         → Main language: backend, automation, scripting
 🔹 C              → Systems programming & low-level concepts
-🔹 Python         → Backend development with Flask
 🔹 Linux Mint     → Primary development environment
 ```
 
 ### **Core Technologies**
 ```
-🔹 Java           → Main programming language & Android development
+🔹 Flask          → Python web framework for backend development
+🔹 Java           → Object-oriented programming & Android development
 🔹 JavaScript     → Web development & scripting
 🔹 React          → Frontend framework experience
 ```
@@ -33,7 +34,11 @@ I'm a computer science student from Germany passionate about understanding how t
 ### **Web Development**
 ```
 🔹 HTML5 & CSS3   → Frontend fundamentals
-🔹 Flask          → Python web framework
+```
+
+### **Planned Learning**
+```
+🔹 Machine Learning → Exploring AI/ML with Python
 ```
 
 ### **Additional Skills**
@@ -52,11 +57,11 @@ I'm a computer science student from Germany passionate about understanding how t
 
 ## 🔍 What You'll Find Here
 
+**Backend Development**  
+Python applications with Flask for web APIs, automation scripts, and various side projects
+
 **Systems & Low-Level Projects**  
 C programming projects exploring computer fundamentals and system architecture
-
-**Backend Development**  
-Python applications focusing on server-side logic, APIs, and robust backend solutions
 
 **Mobile Development**  
 Android applications showcasing Java development skills
@@ -68,8 +73,9 @@ Code snippets, tutorials, and explorations—including those valuable failures t
 
 ## 🎯 Current Goals
 
-- **Master C Programming** → Understanding memory management, pointers, and system calls
-- **Backend Excellence** → Building scalable Python applications and APIs
+- **Python Mastery** → Expanding skills in web development, automation, and exploring ML
+- **Systems Programming** → Understanding memory management, pointers, and system calls with C
+- **Machine Learning** → Planning to dive into AI/ML fundamentals with Python
 - **Linux Proficiency** → Becoming fluent in Linux development workflows
 - **Continuous Growth** → Always exploring new technologies and best practices
 
