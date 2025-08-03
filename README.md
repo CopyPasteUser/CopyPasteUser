@@ -1,32 +1,38 @@
 <div align="center">
-    <img src="https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile!-brightgreen.svg?style=flat&logo=github&logoColor=white" alt="Welcome to My GitHub Profile!" />
+    <h1>👋 Willkommen auf meinem GitHub-Profil!</h1>
+    <img src="https://img.shields.io/badge/Passionate%20Developer%20from%20Germany-blue.svg?style=flat&logo=github&logoColor=white" alt="Passionate Developer from Germany" />
     <br/>
     <br/>
 </div>
 
-## About Me
-Hey there! 👋 I'm **CopyPasteUser**, a computer science student from Germany diving into programming. I have a passion for building things, whether it's web applications with Flask, mobile apps with Android Studio, delving into data with R, or exploring low-level programming with C.
+## 🚀 Über mich
+Hallo! Ich bin **CopyPasteUser**, ein Informatik-Student aus Deutschland.  
+Aktuell lerne ich C und entwickle auf **Linux Mint**.  
+Früher habe ich mich mit GameDev beschäftigt, konzentriere mich jetzt aber mehr auf allgemeine Softwareentwicklung.
 
-## What You'll Find Here
-- **Projects**: From web apps using Flask to Android apps developed in Android Studio, each repo reflects my journey and skills.
-- **Learning Journey**: Expect experiments, tutorials, and the occasional failure—all part of learning!
+## 🔧 Technologien & Skills
+### 🔥 Hauptfokus
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) - Aktuell mein Haupt-Lerngebiet  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) - Für Android-Entwicklung  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - Für Web- und Scripting-Projekte  
 
-## Technologies I Use
-- **Main Focus:**
-  - ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white): My main language for various projects, including Android app development.
-  - ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white): Versatile language used for web development with Flask, scripting, and more.
-  -  ![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white): currently learning js to later on learn react for better frontends.
-- **Other Technologies**:
-  - ![C](https://img.shields.io/badge/-C-lightgrey?style=for-the-badge&logo=c&logoColor=white): Exploring low-level programming.
-  -  ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white): for Website formatting,
-  -  ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white): for the styling aspect
-  - ![R](https://img.shields.io/badge/-R-blueviolet?style=for-the-badge&logo=r&logoColor=white): Exploring data analysis and visualization.
-  - **Game Development**: Passionate about creating a 2/3d game engine.
-  - **Web Development**: Experienced in building web applications with Flask.
-  - **Mobile Development**: Proficient in Android app development using Android Studio.
-  
+### 🌐 Web-Entwicklung
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - Lerne ich für zukünftige React-Projekte
 
-## Get in Touch
-Connect with me via [email](mailto:mightygerkin@gmail.com). Let's learn and grow together!
+### 🛠️ Sonstige Tools
+![Linux](https://img.shields.io/badge/-Linux-Mint?style=for-the-badge&logo=linux&logoColor=white&color=87CF3E) - Mein aktuelles Entwicklungs-System  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) - Für Web-Backends  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-Happy coding! 🚀
+## 📚 Aktuelle Lernziele
+- Vertiefung in C-Programmierung
+- JavaScript und moderne Frontend-Frameworks
+- Linux-Systemverwaltung und Entwicklung
+
+## 📫 Kontakt
+Du erreichst mich am besten per [E-Mail](mailto:mightygerkin@gmail.com).  
+Ich freue mich über Austausch und gemeinsame Projekte!
+
+Viel Spaß beim Stöbern durch meine Repositories! ✨
