@@ -1,41 +1,28 @@
-# 👋 Hey there, I'm CopyPasteUser!
-*Computer Science Student | Backend Developer | Systems Programming Enthusiast*
+# Hi, I'm CopyPasteUser 👋
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linux&logoColor=white" alt="Linux Mint">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
-</div>
+**Fachinformatiker für Systemintegration in training · Linux enthusiast · Automation builder**
 
----
+I am based in Germany and currently training as an IT specialist for system integration. I enjoy turning everyday problems into practical tools—especially around Linux desktops, self-hosting, automation, networking, and hardware.
 
-## 🚀 About Me
-CS student from Germany passionate about backend development and systems programming. Currently exploring how technology works from the ground up - from Python web apps to low-level C programming.
+## What I work with
 
-**🌱 Currently:** Systems programming fundamentals & exploring ML  
-**💻 Environment:** Linux Mint  
-**🎯 Focus:** Python backends, automation, and C systems programming
+- **Systems:** Linux Mint XFCE, SteamOS, Windows, Raspberry Pi
+- **Languages:** Python, Java, C, JavaScript
+- **Tools:** Flask, Android Studio, Git, systemd, Bash
+- **Interests:** system integration, networks, desktop UX, automation, media tooling, and game-engine experiments
 
----
+## Selected projects
 
-## 🔍 What You'll Find Here
-- **Backend Projects** → Flask APIs, automation scripts, side projects
-- **Systems Programming** → C projects exploring computer fundamentals  
-- **Mobile Dev** → Android applications with Java
-- **Learning Experiments** → Code snippets and valuable failures
+- [Remote PC Control](https://github.com/CopyPasteUser/PC-Remote-Control-) — control a Windows PC from an Android device
+- [BookGen](https://github.com/CopyPasteUser/Bookgen) — AI-assisted DOCX book generation
+- [Pseudo TTS Engine](https://github.com/CopyPasteUser/Pseudo-TTS-Engine) — Animal Crossing-style typing sounds
+- **XFCE macOS Control Center** — polished system controls for XFCE
+- **DubSync Studio** — automated audio alignment and dubbing workflow
+
+## How I build
+
+I learn by shipping. Several projects are **vibe-coded**: I define the product direction, test real workflows, diagnose problems, and iteratively build with AI assistance. Each project README labels this transparently.
 
 ---
 
-## 📫 Let's Connect
-**Email:** [mightygerkin@gmail.com](mailto:mightygerkin@gmail.com)
-
-<div align="center">
-  <i>Always excited to connect with fellow developers! ✨</i>
-</div>
+*Always improving the setup—and usually automating the repetitive part.*
