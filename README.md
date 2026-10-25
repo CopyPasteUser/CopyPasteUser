@@ -13,11 +13,11 @@ I am based in Germany and currently training as an IT specialist for system inte
 
 ## Selected projects
 
+- [XFCE macOS Control Center](https://github.com/CopyPasteUser/xfce-macos-control-center) — practical, macOS-inspired controls for XFCE
+- [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio) — automated audio alignment and dubbing workflow
 - [Remote PC Control](https://github.com/CopyPasteUser/PC-Remote-Control-) — control a Windows PC from an Android device
 - [BookGen](https://github.com/CopyPasteUser/Bookgen) — AI-assisted DOCX book generation
 - [Pseudo TTS Engine](https://github.com/CopyPasteUser/Pseudo-TTS-Engine) — Animal Crossing-style typing sounds
-- **XFCE macOS Control Center** — polished system controls for XFCE
-- **DubSync Studio** — automated audio alignment and dubbing workflow
 
 ## How I build
 
