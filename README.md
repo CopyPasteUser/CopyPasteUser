@@ -8,8 +8,8 @@ I build tools for the systems I actually use. One day that means making an XFCE 
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [XFCE macOS Control Center](https://github.com/CopyPasteUser/xfce-macos-control-center) | A compact control center for XFCE with device controls, media, notes, diagnostics, and configurable UI | Documentation published; application source to follow |
-| [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio) | A desktop workflow for matching dubbed audio to a video master, reviewing mismatches, and batch exporting episodes | Documentation published; application source to follow |
+| [XFCE macOS Control Center](https://github.com/CopyPasteUser/xfce-macos-control-center) | A compact control center for XFCE with device controls, media, notes, diagnostics, and configurable UI | Version 2.0.0 source available |
+| [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio) | A desktop workflow for matching dubbed audio to a video master, reviewing mismatches, and batch exporting episodes | Version 1.5.14 source available |
 | [Remote PC Control](https://github.com/CopyPasteUser/PC-Remote-Control-) | An Android controller and Python/Flask host for mouse, keyboard, media, file transfer, and screenshots on a trusted LAN | Code available |
 | [BookGen](https://github.com/CopyPasteUser/Bookgen) | Generates structured books with AI and exports Word documents | Proof of concept |
 | [Pseudo TTS Engine](https://github.com/CopyPasteUser/Pseudo-TTS-Engine) | Plays short Animal Crossing-inspired sounds for keyboard input | Experiment |
