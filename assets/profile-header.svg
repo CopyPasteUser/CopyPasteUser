@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">CopyPasteUser</title>
+  <desc id="desc">Systems, software and interfaces. A dark schematic header with a compact terminal illustration.</desc>
+  <defs>
+    <pattern id="dots" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".85" fill="#35485d" opacity=".43"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#0e1722"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <path d="M0 16H1200 M0 284H1200" stroke="#273a4f" stroke-width="1"/>
+    <path d="M40 0V300 M1160 0V300" stroke="#26384a" stroke-width="1"/>
+    <rect x="66" y="52" width="10" height="10" rx="2" fill="#90dbc4"/>
+    <text x="88" y="62" font-size="15" font-family="DejaVu Sans Mono, monospace" fill="#8eaabd" letter-spacing="2.4">PERSONAL BUILD LOG</text>
+    <text x="64" y="154" font-size="65" font-weight="700" font-family="DejaVu Sans, sans-serif" fill="#f2f7fa" letter-spacing="-2">CopyPasteUser</text>
+    <rect x="67" y="177" width="48" height="3" rx="1.5" fill="#90dbc4"/>
+    <text x="130" y="184" font-size="21" font-family="DejaVu Sans, sans-serif" fill="#c0d0df">Systems  /  Software  /  Interfaces</text>
+    <text x="66" y="259" font-size="14" font-family="DejaVu Sans Mono, monospace" fill="#8197a9" letter-spacing="1">LINUX    ·    BUILD    ·    DEBUG    ·    REPEAT</text>
+    <path d="M692 37V264" stroke="#2d4051" stroke-width="1" stroke-dasharray="4 8"/>
+    <rect x="748" y="37" width="381" height="225" rx="12" fill="#142231" stroke="#365065" stroke-width="1.5"/>
+    <rect x="749" y="38" width="379" height="38" rx="11" fill="#1e3042"/>
+    <path d="M749 76H1128" stroke="#365065"/>
+    <circle cx="773" cy="57" r="5.5" fill="#657f91"/>
+    <circle cx="793" cy="57" r="5.5" fill="#657f91"/>
+    <circle cx="813" cy="57" r="5.5" fill="#90dbc4"/>
+    <text x="912" y="62" text-anchor="middle" font-size="13" font-family="DejaVu Sans Mono, monospace" fill="#a2b5c5">workspace / ~/projects</text>
+    <text x="775" y="115" font-size="17" font-family="DejaVu Sans Mono, monospace" fill="#90dbc4">$</text>
+    <text x="799" y="115" font-size="17" font-family="DejaVu Sans Mono, monospace" fill="#e7eff5">make something useful</text>
+    <path d="M775 135H1099" stroke="#334b60" stroke-width="1"/>
+    <text x="775" y="163" font-size="15" font-family="DejaVu Sans Mono, monospace" fill="#a9bfce">01</text>
+    <text x="812" y="163" font-size="15" font-family="DejaVu Sans Mono, monospace" fill="#e0ebf1">design the workflow</text>
+    <text x="775" y="189" font-size="15" font-family="DejaVu Sans Mono, monospace" fill="#a9bfce">02</text>
+    <text x="812" y="189" font-size="15" font-family="DejaVu Sans Mono, monospace" fill="#e0ebf1">make it run</text>
+    <text x="775" y="215" font-size="15" font-family="DejaVu Sans Mono, monospace" fill="#a9bfce">03</text>
+    <text x="812" y="215" font-size="15" font-family="DejaVu Sans Mono, monospace" fill="#e0ebf1">test on real hardware</text>
+    <path d="M775 237H1007" stroke="#385063" stroke-width="1"/>
+    <rect x="1018" y="232" width="84" height="15" rx="7.5" fill="#203c3e"/>
+    <circle cx="1033" cy="239.5" r="3.5" fill="#90dbc4"/>
+    <text x="1042" y="243" font-size="10" font-family="DejaVu Sans Mono, monospace" fill="#b6e7d8">iterating</text>
+  </g>
+</svg>
