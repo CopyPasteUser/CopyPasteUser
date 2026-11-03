@@ -17,6 +17,12 @@ I build software for problems I run into myself—from customizing Linux desktop
 
 `Python` · `GTK3` · `XFCE / X11`
 
+### [RiceExplorer](https://github.com/CopyPasteUser/riceExplorer)
+
+**A Linux-first, customizable file manager in Rust.** Built to complement RiceBowl with seven visual profiles, tabs, bookmarks, file operations with progress and cancellation, local search and on-demand previews. Currently in early development (v0.2).
+
+`Rust` · `egui / eframe` · `Linux`
+
 ### [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio)
 
 **A local workflow for syncing different-language video tracks.** Scene matching, visual review and batch processing, with hardware-aware performance profiles.
@@ -28,8 +34,6 @@ I build software for problems I run into myself—from customizing Linux desktop
 **A self-hosted control layer for my homelab.** Bringing services, administration and everyday workflows into one interface. Actively developed, currently private.
 
 `Linux` · `Services` · `Automation`
-
-**Next experiment:** RiceExplorer—a deeply customizable, rice-friendly file manager in Rust. Early-stage work; no public repository linked yet.
 
 ## Smaller projects
 
