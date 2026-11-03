@@ -61,6 +61,7 @@ def render_svg(counts: dict[str, int], through: date) -> str:
     days = [(through - timedelta(days=30 - i)) for i in range(31)]
     values = [max(0, counts.get(day.isoformat(), 0)) for day in days]
     total, highest = sum(values), max(max(values), 1)
+    metric_label_x = 50 + 28 * len(str(total))
     bars = []
     for index, (day, count) in enumerate(zip(days, values, strict=True)):
         height = max(4, round(70 * count / highest)) if count else 2
@@ -84,7 +85,7 @@ def render_svg(counts: dict[str, int], through: date) -> str:
   <g font-family="DejaVu Sans,Arial,sans-serif">
     <text x="28" y="35" fill="#9ab5c4" font-size="15" font-weight="700" letter-spacing="1.5">GITHUB / ACTIVITY</text>
     <text x="28" y="80" fill="#eaf5f6" font-size="43" font-weight="700">{total}</text>
-    <text x="138" y="77" fill="#b5ced6" font-size="15">public contributions</text>
+    <text x="{metric_label_x}" y="77" fill="#b5ced6" font-size="15">public contributions</text>
     <text x="492" y="34" fill="#70ddba" text-anchor="end" font-size="12">LAST 31 DAYS</text>
     <path d="M28 151H492" stroke="#3a5367" stroke-width="1"/>
     {''.join(bars)}
