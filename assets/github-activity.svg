@@ -5,7 +5,7 @@
   <g font-family="DejaVu Sans,Arial,sans-serif">
     <text x="28" y="35" fill="#9ab5c4" font-size="15" font-weight="700" letter-spacing="1.5">GITHUB / ACTIVITY</text>
     <text x="28" y="80" fill="#eaf5f6" font-size="43" font-weight="700">324</text>
-    <text x="115" y="77" fill="#b5ced6" font-size="15">public contributions</text>
+    <text x="134" y="77" fill="#b5ced6" font-size="15">public contributions</text>
     <text x="492" y="34" fill="#70ddba" text-anchor="end" font-size="12">LAST 31 DAYS</text>
     <path d="M28 151H492" stroke="#3a5367" stroke-width="1"/>
     <g><title>2026-10-04: 0 public contributions</title><rect x="28" y="149" width="9" height="2" rx="3" fill="#253648"/></g>
