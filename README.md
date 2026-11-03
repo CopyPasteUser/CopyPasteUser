@@ -1,65 +1,54 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="CopyPasteUser — Systems, software and interfaces. Linux, automation and practical tools." width="100%" />
+  <img src="assets/profile-header.svg" alt="CopyPasteUser — Systems, software and interfaces" width="100%" />
 </p>
 
 <p align="center">
-  <strong>IT Systems Integration Apprentice</strong> (Fachinformatiker für Systemintegration) · Germany<br />
-  Linux desktops · self-hosting · useful software · thoughtful interfaces
+  <strong>IT Systems Integration Apprentice</strong> · Germany<br>
+  Linux · Desktop software · Homelabs · Automation
 </p>
 
-I make software for problems I run into myself. Sometimes that's a lighter Linux desktop, sometimes a tool for a media library, and sometimes an easier way to manage a system. I care about the whole thing: **does it work, is it fast, and would I actually enjoy using it?**
+I build software for problems I run into myself—from customizing Linux desktops to syncing media and managing a homelab. I like practical tools, thoughtful interfaces and getting good performance out of everyday hardware.
 
-## Building right now
+## What I'm building
 
-### 01 · [MacRice for XFCE](https://github.com/CopyPasteUser/macos-xfce-rice)
+### [RiceBowl](https://github.com/CopyPasteUser/RiceBowl)
 
-**A macOS-inspired desktop, without giving up XFCE.** Native Python/GTK tools for an app menu, control center and top bar, combined with Plank, matching themes and wallpapers. The suite includes a preview, installer and reversible desktop styling.
+**Seven desktop styles for XFCE, with reversible switching.** A native Python/GTK3 hub for macOS, Windows 7/10/XP/98, ChromeOS and Frutiger Aero-inspired desktops. Each has its own shell, visual identity and Linux-backed controls. Formerly MacRice/RiceHub.
 
-`Python` · `GTK 3` · `XFCE / X11` · `Release candidate`
+`Python` · `GTK3` · `XFCE / X11`
 
-<details>
-<summary>See the complete desktop concept</summary>
+### [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio)
 
-![Illustrative MacRice desktop preview with menu, control center and dock](https://raw.githubusercontent.com/CopyPasteUser/macos-xfce-rice/main/screenshots/full-rice-overview-0.2.0rc1.png)
+**A local workflow for syncing different-language video tracks.** Scene matching, visual review and batch processing, with hardware-aware performance profiles.
 
-*Illustrative GTK preview, not a capture of a live personal desktop.*
-</details>
+`Python` · `PySide6` · `FFmpeg` · `OpenCV`
 
-### 02 · [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio)
+### Satella OS
 
-**Getting different language tracks in sync, episode by episode.** A local desktop workflow that uses video frames to find matching scenes, lets me review mismatches and handles batch exports. Hardware-aware performance is part of the work; real-world GPU and interruption testing is still ongoing.
+**A self-hosted control layer for my homelab.** Bringing services, administration and everyday workflows into one interface. Actively developed, currently private.
 
-`Python` · `PySide6` · `FFmpeg` · `OpenCV` · `2.0 beta`
+`Linux` · `Services` · `Automation`
 
-### 03 · Satella OS
+**Next experiment:** RiceExplorer—a deeply customizable, rice-friendly file manager in Rust. Early-stage work; no public repository linked yet.
 
-**My self-hosted systems interface.** An ongoing homelab project for bringing services, administration and everyday workflows together. Still in active private development; no public repository linked here yet.
+## Smaller projects
 
-`Linux` · `Services` · `Automation` · `Work in progress`
+| Project | Purpose |
+| --- | --- |
+| [Remote PC Control](https://github.com/CopyPasteUser/PC-Remote-Control-) | Control a PC remotely from an Android device on the local network. |
+| [BookGen](https://github.com/CopyPasteUser/Bookgen) | Turn generated outlines into structured Word documents. |
+| [Pseudo TTS Engine](https://github.com/CopyPasteUser/Pseudo-TTS-Engine) | Experiment with character-like typing voices using short audio samples. |
 
-## More things I've built
+I also built standalone XFCE components: [Control Center](https://github.com/CopyPasteUser/xfce-macos-control-center) and [MacBar](https://github.com/CopyPasteUser/xfce-macbar).
 
-| Project | What I was trying to solve |
-| :--- | :--- |
-| [Remote PC Control](https://github.com/CopyPasteUser/PC-Remote-Control-) | Control a Windows PC from an Android phone over a trusted local network. |
-| [BookGen](https://github.com/CopyPasteUser/Bookgen) | Turn an AI-generated outline into a structured Word document. *Proof of concept.* |
-| [Pseudo TTS Engine](https://github.com/CopyPasteUser/Pseudo-TTS-Engine) | Give typing a character-like voice using short sound samples. *Experiment.* |
+## What I work with
 
-MacRice also has standalone components: [MacMenu](https://github.com/CopyPasteUser/xfce-macmenu) *(currently private)*, [Control Center](https://github.com/CopyPasteUser/xfce-macos-control-center) and [MacBar](https://github.com/CopyPasteUser/xfce-macbar).
+**Systems:** Linux Mint, XFCE, Bash, networking, self-hosting, Git  
+**Software:** Python, GTK/PyGObject, PySide6, Rust (learning), Java, C, Flask  
+**Media and devices:** FFmpeg, OpenCV, Android, scripting and local APIs
 
-## Where my time goes
+## How I build
 
-- **Linux & systems** — networking, XFCE, services, storage, homelab infrastructure and debugging things that break.
-- **Desktop software** — Python, GTK, Qt, small utilities, responsive interaction and performance on real hardware.
-- **Media & automation** — FFmpeg workflows, batch jobs, scripting and removing repetitive steps.
-- **Cross-device tools** — Android, local APIs and making different devices work together.
-
-<sub>Tools I work with: Linux Mint · Bash · Python · Git · GTK/PyGObject · PySide6 · FFmpeg · Java/Android · C · Flask. This is a toolbox, not a claim to be an expert in every part of it.</sub>
-
-## A note on how I build
-
-Some of my projects are **vibe-coded / AI-assisted**. I define the behavior, make product decisions, test and debug on actual systems, and use tools such as **ChatGPT and Codex** to help design, implement and review the software. I credit that assistance in the relevant repositories and try to be honest about beta features and unverified hardware support.
-
----
+Some of my work is **AI-assisted / vibe-coded**. I decide what to build, define the behavior, integrate it into real systems and test and debug the results. I use tools like ChatGPT and Codex and try to distinguish shipped functionality from experiments and unverified claims.
 
 <p align="center"><em>Build it. Break it. Understand it. Make it better.</em></p>
