@@ -7,7 +7,7 @@ on:
       - ".github/workflows/refresh-activity.yml"
       - "scripts/update_activity.py"
   schedule:
-    - cron: "17 6 * * *"
+    - cron: "17,47 * * * *"
   workflow_dispatch:
 
 permissions:
