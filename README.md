@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/CopyPasteUser?tab=overview">
-    <img src="assets/github-activity.svg" width="520" alt="GitHub contribution chart for CopyPasteUser, 31 days ending November 3, 2026" />
+    <img src="assets/github-activity.svg" width="520" alt="CopyPasteUser GitHub contributions over the last 31 days; automatically refreshed" />
   </a>
 </p>
 
