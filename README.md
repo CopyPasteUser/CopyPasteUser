@@ -1,68 +1,51 @@
-<h1 align="center">CopyPasteUser</h1>
+<div align="center">
+  <img src="assets/profile-header.svg" alt="CopyPasteUser — Systems, Software, Interfaces" width="100%">
 
-<p align="center">
-  <strong>Systems · Software · Interfaces</strong><br>
-  IT Systems Integration Apprentice · Germany
-</p>
+  **Linux-first software · Desktop interfaces · Homelab engineering**
 
-<p align="center">
-  I build Linux-first tools, desktop interfaces and homelab software.<br>
-  Practical by design. Tested on real hardware.
-</p>
+  I build tools I'd actually want to run: practical, customizable and light on resources.
+</div>
 
-<p align="center">
-  <code>Linux</code> · <code>Python</code> · <code>Rust</code> · <code>Automation</code>
-</p>
+## What I'm building
 
----
+### 🍚 [RiceBowl](https://github.com/CopyPasteUser/Ricebowl)
+Seven distinct, OS-inspired Linux desktop experiences. Today: an XFCE/X11 ricing suite. Next: a modular, lightweight Wayland desktop environment built around **labwc**.
 
-## Development activity
+**Python · GTK · Linux · Wayland roadmap**
+
+### 📁 [RiceField](https://github.com/CopyPasteUser/Ricefield)
+A Rust file manager with seven customizable visual shells, tabs, split view, search and careful local file operations. **1.0 release candidate — hardware acceptance pending.**
+
+**Rust · egui · Linux**
+
+### 📊 [Taskotto](https://github.com/CopyPasteUser/Taskotto)
+A planned lightweight, riceable Linux process manager and system monitor. **Planning stage; not yet an application you can install.**
+
+**Rust · Linux · RiceBowl ecosystem**
+
+### 🎬 [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio)
+Tools for aligning multilingual video and audio, with scene matching and visual review.
+
+**Python · PySide6 · FFmpeg**
+
+### 🖧 Satella OS <sub>(private)</sub>
+My self-hosted homelab control project for Linux services, administration and automation.
+
+## GitHub activity
 
 <p align="center">
   <a href="https://github.com/CopyPasteUser?tab=overview">
-    <img src="assets/github-activity.svg" width="520" alt="CopyPasteUser GitHub contributions over the last 31 days; automatically refreshed" />
+    <img src="assets/github-activity.svg" alt="Automatically refreshed activity chart for recent public GitHub contributions" width="520">
   </a>
 </p>
 
-<p align="center">
-  <sub>Public contributions, including commits · <a href="https://github.com/CopyPasteUser?tab=overview">Live GitHub calendar</a></sub>
-</p>
+<p align="center"><sub>Recent public contributions · <a href="https://github.com/CopyPasteUser?tab=overview">View the GitHub contribution calendar</a></sub></p>
 
-## Featured projects
+## A little about me
 
-### 🖥️ [RiceBowl](https://github.com/CopyPasteUser/RiceBowl)
-
-Switch between seven distinctive, OS-inspired XFCE desktops — from Windows 98 and XP Luna to Windows 7, macOS, ChromeOS and Frutiger Aero. Formerly MacRice/RiceHub.
-
-`Python` · `GTK3` · `XFCE / X11`
-
-### 📁 [RiceExplorer](https://github.com/CopyPasteUser/riceExplorer)
-
-A fast, deeply riceable Rust file manager designed to complement RiceBowl. Tabs, bookmarks, safe file operations, local search and previews. **Early-stage v0.2.**
-
-`Rust` · `egui / eframe` · `Linux`
-
-### 🎬 [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio)
-
-A local workflow for aligning different-language video tracks, with scene matching, visual review and hardware-aware processing.
-
-`Python` · `PySide6` · `FFmpeg`
-
-### 🛠️ Satella OS <sub>(private)</sub>
-
-An actively developed homelab control layer for services, administration and automation.
-
-`Linux` · `Services` · `Automation`
-
-## Smaller builds
-
-- **[Remote PC Control](https://github.com/CopyPasteUser/PC-Remote-Control-)** — Android-to-PC control on a local network.
-- **[BookGen](https://github.com/CopyPasteUser/Bookgen)** — Turn outlines into structured Word documents.
-- **[Pseudo TTS Engine](https://github.com/CopyPasteUser/Pseudo-TTS-Engine)** — Character-like typing voices made from short audio samples.
-- **XFCE components:** [Control Center](https://github.com/CopyPasteUser/xfce-macos-control-center) · [MacBar](https://github.com/CopyPasteUser/xfce-macbar)
-
-## About my workflow
-
-I work with Linux Mint, XFCE, Python, Rust, GTK, networking, self-hosting and media tooling. Some projects are **AI-assisted / vibe-coded**; I define the behavior, integrate the software, and verify it in real environments.
+- **Interests:** Linux desktops, Rust, Python, system integration, networking, self-hosting and media tools.
+- **Approach:** make it work, test it, make it efficient, then refine the experience.
+- **Hardware:** real desktops, laptops and a small homelab — not just screenshots or mockups.
+- **Process:** some work is AI-assisted; I review the behavior, integrate the pieces and validate the result.
 
 <p align="center"><em>Build it. Break it. Understand it. Make it better.</em></p>
