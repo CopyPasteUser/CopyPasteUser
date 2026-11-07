@@ -9,7 +9,7 @@
 ## What I'm building
 
 ### 🍚 [RiceBowl](https://github.com/CopyPasteUser/Ricebowl)
-Seven OS-inspired Linux desktop styles, currently on XFCE/X11. A modular **labwc/Wayland desktop** is in development, with declarative recipes, native desktop icons and isolated visual testing for AI-assisted ricing.
+Seven OS-inspired Linux desktop styles, currently on XFCE/X11. An opt-in **labwc/Wayland desktop preview** now includes a native Rust panel, desktop shortcuts, RiceSpice settings, RicePop notifications and an offline recipe/visual-testing CLI for AI-assisted ricing; XFCE/X11 remains the default.
 
 **Python · GTK · Linux · Wayland roadmap**
 
@@ -19,7 +19,7 @@ A Rust file manager with seven customizable shells, tabs, split view, search, ar
 **Rust · egui · Linux**
 
 ### 📊 [Taskotto](https://github.com/CopyPasteUser/Taskotto)
-A working Rust process manager and system monitor with seven OS-inspired interfaces, live metrics and customizable **RicePack** designs. **1.0.0-rc.25**; window decorations are handled by the desktop, while native GUI and resource-use acceptance remain open.
+A working Rust process manager and system monitor with seven OS-inspired interfaces, live metrics and customizable **RicePack** designs. **1.0.0-rc.56** adds data-defined client screens and diagnostic layouts; window decorations are handled by the desktop, while native GUI and resource-use acceptance remain open.
 
 **Rust · Linux · RiceBowl ecosystem**
 
