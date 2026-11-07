@@ -19,7 +19,7 @@ A Rust file manager with seven customizable shells, tabs, split view, search, ar
 **Rust · egui · Linux**
 
 ### 📊 [Taskotto](https://github.com/CopyPasteUser/Taskotto)
-A working Rust process manager and system monitor with seven OS-inspired interfaces, live metrics and customizable **RicePack** designs. **1.0.0-rc.16**; native GUI and resource-use acceptance remain open.
+A working Rust process manager and system monitor with seven OS-inspired interfaces, live metrics and customizable **RicePack** designs. **1.0.0-rc.25**; window decorations are handled by the desktop, while native GUI and resource-use acceptance remain open.
 
 **Rust · Linux · RiceBowl ecosystem**
 
