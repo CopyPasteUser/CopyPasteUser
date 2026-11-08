@@ -14,7 +14,7 @@ Seven OS-inspired Linux desktop styles, currently on XFCE/X11. An opt-in **labwc
 **Python · GTK · Linux · Wayland roadmap**
 
 ### 📁 [RiceField](https://github.com/CopyPasteUser/Ricefield)
-A Rust file manager with seven customizable shells, tabs, split view, search, archive support and guarded local operations. **1.0.0-rc.17** adds an XP Luna shell; stable 1.0 still awaits safety work and hardware acceptance.
+A Rust file manager with seven customizable shells, tabs, split view, search, archive support and guarded local operations. **1.0.0-rc.20** includes the XP Luna shell and guarded WebDAV single-file uploads; stable 1.0 still awaits network-write/recovery safety gates and physical hardware acceptance.
 
 **Rust · egui · Linux**
 
