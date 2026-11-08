@@ -9,17 +9,17 @@
 ## What I'm building
 
 ### 🍚 [RiceBowl](https://github.com/CopyPasteUser/Ricebowl)
-Seven OS-inspired Linux desktop styles, currently on XFCE/X11. An opt-in **labwc/Wayland desktop preview** now includes a native Rust panel, desktop shortcuts, RiceSpice settings, RicePop notifications and an offline recipe/visual-testing CLI for AI-assisted ricing; XFCE/X11 remains the default.
+Seven OS-inspired Linux desktop styles, currently on XFCE/X11. An opt-in **labwc/Wayland desktop preview** now includes a native Rust panel, desktop shortcuts, RiceSpice settings, RicePop's actionable Mako-backed notification inbox, volume/brightness OSD, native accessibility support and an offline recipe/visual-testing CLI for AI-assisted ricing; XFCE/X11 remains the default.
 
 **Python · GTK · Linux · Wayland roadmap**
 
 ### 📁 [RiceField](https://github.com/CopyPasteUser/Ricefield)
-A Rust file manager with seven customizable shells, tabs, split view, search, archive support and guarded local operations. **1.0.0-rc.20** includes the XP Luna shell and guarded WebDAV single-file uploads; stable 1.0 still awaits network-write/recovery safety gates and physical hardware acceptance.
+A Rust file manager with seven customizable shells, tabs, split view, search, archive support and guarded local operations. **1.0.0-rc.20** includes the XP Luna shell, guarded WebDAV single-file uploads, folder/tab drag-and-drop and asynchronous large-folder sorting. Recovery durability has improved; stable 1.0 still requires remaining safety checks and physical hardware acceptance.
 
 **Rust · egui · Linux**
 
 ### 📊 [Taskotto](https://github.com/CopyPasteUser/Taskotto)
-A working Rust process manager and system monitor with seven OS-inspired interfaces, live metrics and customizable **RicePack** designs. **1.0.0-rc.56** adds data-defined client screens and diagnostic layouts; window decorations are handled by the desktop, while native GUI and resource-use acceptance remain open.
+A working Rust process manager and system monitor with seven OS-inspired interfaces, live metrics and customizable **RicePack** designs. **1.0.0-rc.56** adds data-defined client screens and diagnostic layouts; window decorations are handled by the desktop. Recent work reduced sampling overhead; native GUI and resource-use acceptance remain open.
 
 **Rust · Linux · RiceBowl ecosystem**
 
