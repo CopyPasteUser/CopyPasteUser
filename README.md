@@ -9,12 +9,12 @@
 ## What I'm building
 
 ### 🍚 [RiceBowl](https://github.com/CopyPasteUser/Ricebowl)
-Seven OS-inspired Linux desktop styles, currently on XFCE/X11. An opt-in **labwc/Wayland desktop preview** now includes a native Rust panel, desktop shortcuts, RiceSpice settings, RicePop's actionable Mako-backed notification inbox, volume/brightness OSD, native accessibility support and an offline recipe/visual-testing CLI for AI-assisted ricing; XFCE/X11 remains the default.
+Seven OS-inspired Linux desktop styles, currently on XFCE/X11. An opt-in **labwc/Wayland desktop preview** and experimental **Rice Creator 0.1** now offer a native GTK recipe editor, validated RicePack exports and isolated previews. The Wayland session includes a native Rust panel, desktop shortcuts, RiceSpice settings, RicePop's actionable Mako-backed notification inbox, volume/brightness OSD, native accessibility support and an offline recipe/visual-testing CLI for AI-assisted ricing; XFCE/X11 remains the default.
 
 **Python · GTK · Linux · Wayland roadmap**
 
 ### 📁 [RiceField](https://github.com/CopyPasteUser/Ricefield)
-A Rust file manager with seven customizable shells, tabs, split view, search, archive support and guarded local operations. **1.0.0-rc.20** includes the XP Luna shell, guarded WebDAV single-file uploads, folder/tab drag-and-drop and asynchronous large-folder sorting. Recovery durability has improved; stable 1.0 still requires remaining safety checks and physical hardware acceptance.
+A Rust file manager with seven customizable shells, tabs, split view, search, archive support and guarded local operations. **1.0.0-rc.21** includes the XP Luna shell, guarded WebDAV/SFTP/SMB single-file uploads, folder/tab drag-and-drop and asynchronous large-folder sorting. Recovery durability has improved; stable 1.0 still requires remaining safety checks and physical hardware acceptance.
 
 **Rust · egui · Linux**
 
@@ -24,7 +24,7 @@ A working Rust process manager and system monitor with seven OS-inspired interfa
 **Rust · Linux · RiceBowl ecosystem**
 
 ### 🎬 [DubSync Studio](https://github.com/CopyPasteUser/dubsync-studio)
-Tools for aligning multilingual video and audio, with scene matching and visual review.
+A Linux desktop app for picture-based alignment of multilingual video editions, visual/audio evidence review and guarded MKV export. **3.0.0b1 beta** adds evidence-gap navigation and CPU/GPU parity diagnostics; real-hardware acceptance remains open.
 
 **Python · PySide6 · FFmpeg**
 
