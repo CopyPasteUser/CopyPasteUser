@@ -9,7 +9,7 @@
 ## What I'm building
 
 ### 🍚 [RiceBowl](https://github.com/CopyPasteUser/Ricebowl)
-Seven OS-inspired Linux desktop styles, currently on XFCE/X11. An opt-in **labwc/Wayland desktop preview** and experimental **Rice Creator 0.1** now offer a native GTK recipe editor, validated RicePack exports and isolated previews. The Wayland session includes a native Rust panel, desktop shortcuts, RiceSpice settings, RicePop's actionable Mako-backed notification inbox, volume/brightness OSD, native accessibility support and an offline recipe/visual-testing CLI for AI-assisted ricing; XFCE/X11 remains the default.
+Seven OS-inspired Linux desktop styles, currently on XFCE/X11. An opt-in **labwc/Wayland desktop preview** and experimental **Rice Creator 0.9** provide a native GTK recipe editor, validated RicePack exports and isolated previews. Creator 0.9 adds interactive reference-image region selection and repeatable visual comparison against real isolated RicePlate captures; automatic screenshot-to-desktop conversion and physical hardware acceptance remain open. The Wayland session includes a native Rust panel, desktop shortcuts, RiceSpice settings, RicePop's actionable Mako-backed notification inbox, volume/brightness OSD, native accessibility support and an offline recipe/visual-testing CLI for AI-assisted ricing; XFCE/X11 remains the default.
 
 **Python · GTK · Linux · Wayland roadmap**
 
