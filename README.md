@@ -8,7 +8,7 @@
 
 ## Projects
 
-- **🍚 [RiceBowl](https://github.com/CopyPasteUser/Ricebowl)** — Modular Linux desktop styles for XFCE/X11, an experimental labwc/Wayland environment with Rice Creator, RiceShot screenshots and RiceClip clipboard tools. *Python · GTK · Rust*
+- **🍚 [RiceBowl](https://github.com/CopyPasteUser/Ricebowl)** — Modular Linux desktop styles for XFCE/X11, an experimental labwc/Wayland environment with tested live style switching, Rice Creator, RiceShot and RiceClip. *Python · GTK · Rust*
 - **📁 [RiceField](https://github.com/CopyPasteUser/Ricefield)** — **v1.0.0** Rust file manager with seven distinct desktop styles, tabs, split view, previews and guarded file operations. *Rust · egui*
 - **📊 [Taskotto](https://github.com/CopyPasteUser/Taskotto)** — **v1.0.0** Rust process manager and system monitor with customizable RicePack interfaces. *Rust · Linux*
 - **🍷 [RiceWine](https://github.com/CopyPasteUser/Ricewine)** — Rust Wine/Proton application and prefix manager with seven desktop styles, backups and diagnostics. **3.0 alpha; real-world acceptance pending.** *Rust · Linux*
